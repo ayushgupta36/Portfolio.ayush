@@ -180,8 +180,9 @@
     </form>
     <div class="socials">
       <a href="mailto:ayushkumargupta36@gmail.com"><i class="fas fa-envelope"></i></a>
-      <a href="https://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.linkedin.com/in/ayush-kumar-gupta-102981245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><i class="fab fa-linkedin"></i></a>
       <a href="https://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://www.instagram.com/ayush_gupta_63?utm_source=qr&igsh=MWNlMGw0cTEzc3A3dw==">instagram</a>
     </div>
   </section>
 
