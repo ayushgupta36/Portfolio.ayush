@@ -179,7 +179,7 @@
       <button type="submit">Send Message</button>
     </form>
     <div class="socials">
-      <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:ayushkumargupta36@gmail.com"><i class="fas fa-envelope"></i></a>
       <a href="https://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
       <a href="https://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
     </div>
